@@ -1,0 +1,10 @@
+go.mod
+go.sum
+
+/bin/
+/build/
+/dist/
+
+*.exe
+*.log
+*.tmp
