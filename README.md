@@ -1,6 +1,6 @@
 # RESTful API Golang + MySQL 
 
- kali ini saya membagikan bagaiamna cara membuat restfull api dengan  *Golang**, **Gin**, dan **MySQL** dengan struktur minimal — cukup memakai **1 file main.go** + beberapa folder dasar.
+ kali ini saya membagikan bagaiamna cara membuat restfull api dengan  *Golang**, **Gin**, dan **MySQL** dengan struktur minimal cukup memakai **1 file main.go** + beberapa folder dasar.
 
  cara ini saya dapatkan dari kelas hacktiv belajar go free
 
